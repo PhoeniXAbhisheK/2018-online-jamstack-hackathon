@@ -392,7 +392,7 @@ Happy Healty Snack Jamming and coding hard!!!
   - Linda Kovacs (@lindakovacs)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
-* [Live Site](https://magikart.netlify.com)
+* [Live Site](https://magikart-hacky.netlify.com)
 
 ### Project Q&A:
 1. What are you going to build?  
